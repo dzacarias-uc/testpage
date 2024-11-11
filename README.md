@@ -1,3 +1,3 @@
 # testpage
 
-[Test page](https://dzacarias-uc.github.io/testpage/)
+[Test page](https://dzacarias-uc.github.io/testpage/index.html)
